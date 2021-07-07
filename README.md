@@ -1,4 +1,6 @@
-# GoogleImgCrawlingPy
+# Google Image Crawler
+
+Automatically goes to google images and downloads images from specified search
 
 ## Notice
 
